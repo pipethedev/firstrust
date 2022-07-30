@@ -1,5 +1,5 @@
-mod loops;
+mod cli;
 
 fn main() {
-    loops::run();
+    cli::run();
 }
